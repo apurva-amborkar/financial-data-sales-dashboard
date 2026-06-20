@@ -70,6 +70,10 @@ The dashboard includes interactive slicers to filter data by product categories:
   - Matrix Tables  
 
 ---
+## Dashboard Preview
+https://github.com/apurva-amborkar/financial-data-sales-dashboard/commit/a20ccde9a1231ed93cab2e0c1d1282bb785a43d6
+
+---
 
 ## Skills Demonstrated
 - Data Cleaning & Preparation  
