@@ -77,10 +77,6 @@ https://github.com/apurva-amborkar/financial-data-sales-dashboard/commit/a20ccde
 
 ---
 
-## Repository Link
-https://github.com/apurva-amborkar/financial-data-sales-dashboard
----
-
 ## Skills Demonstrated
 - Data Cleaning & Preparation  
 - Data Modeling & Transformation  
