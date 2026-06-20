@@ -71,14 +71,13 @@ The dashboard includes interactive slicers to filter data by product categories:
 
 ---
 ## Dashboard Preview
-https://github.com/apurva-amborkar/financial-data-sales-dashboard/commit/a20ccde9a1231ed93cab2e0c1d1282bb785a43d6
-
-## 📸 Dashboard Preview
 
 ![Financial Data Dashboard](sales dashboard.png)
+https://github.com/apurva-amborkar/financial-data-sales-dashboard/commit/a20ccde9a1231ed93cab2e0c1d1282bb785a43d6
 
-## 🔗 Repository Link
+---
 
+## Repository Link
 https://github.com/apurva-amborkar/financial-data-sales-dashboard
 ---
 
